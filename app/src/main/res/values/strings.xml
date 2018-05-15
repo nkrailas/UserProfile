@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="name">Nida</string>
+    <string name="birthdate">11/17/1976</string>
+    <string name="bitmoji">bitmoji</string>
+    <string name="name_field">Name</string>
+    <string name="birthday_field">Birthday</string>
+    <string name="country_field">Country</string>
+</resources>
